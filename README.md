@@ -8,7 +8,7 @@ A sort of mod/hack to visualize it within VSCode, to Program W++ as intended.
 
 ## How to use
 
-1. Copy paste the code (`naive-implementation.js`) in dev tools console, you find it under `help` > `toggle developer tools`.
+1. Copy paste the code (`naive-impelementation.js`) in dev tools console, you find it under `help` > `toggle developer tools`.
 2. It may not work upon initial opening of files, but `double-clicking` in either file explorer or tabs seems to resolve it.
 3. Stop it by running the function logged to the console by `right-clicking` > `store function as global variable` and then call it like `temp1();` (after switching tabs it should revert).
 
