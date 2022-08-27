@@ -68,6 +68,7 @@
             for (const [word, link] of Object.entries(keywords)){
                 const elems = getElementsByXPath(`//*[text()='${word}']`);
                 for (const ele of elems){
+                    if (ele.backgroundImage === '') continue;
                     ele.style.backgroundImage = `url(${link})`;
                     ele.style.backgroundRepeat = 'no-repeat';
                     ele.style.backgroundPosition = 'bottom';
