@@ -18,4 +18,4 @@ these instructions are also at the top of `naive-implementation.js`
 
 ## Visual example
 
-![a gif to show how it would look in VSCode](https://github.com/CodeManiaTM/wpp-vscode/blob/combine/visual_example_fizzbuzz_vscode.gif)
+![a gif to show how it would look in VSCode](https://raw.githubusercontent.com/CodeManiaTM/wpp-vscode/main/visual_example_fizzbuzz_vscode.gif)
